@@ -1,1 +1,2 @@
 Creo un fichero nuevo para subir al repositorio remoto
+Gits recordar este enlace: https://wordpress.org
